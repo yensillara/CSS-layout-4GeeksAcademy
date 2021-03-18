@@ -1,4 +1,20 @@
 /* your code here */
-.h2 {display:none;
+.h2 {
+	display: none;
+}
 
+#myFirstH2 {
+	visibility: hidden;
+}
+
+#mySecondH2 {
+	display: none;
+}
+
+ul li {
+	display: inline;
+}
+
+strong {
+	display: block;
 }

@@ -1,1 +1,8 @@
-body{background:blue;}
+body {
+	background: blue;
+}
+
+#contenido {
+	width: 400px;
+	background-color: white;
+}
